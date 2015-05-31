@@ -3,6 +3,11 @@ package com.flydream.common;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
+/**
+ * MD5 generator
+ * @author Administrator
+ *
+ */
 public class MD5 {
     
     // 全局数组
